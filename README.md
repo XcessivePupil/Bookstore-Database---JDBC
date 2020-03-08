@@ -25,7 +25,8 @@ https://plot.ly/
 
 Using plotly, I was able to easily and neatly graph all the datasets within the Happiness index.
 
-One of PLotly intersting features is the ability to label datapoints and have the label appear only when the user hovers their mouse over the point.
+One of Plotly's interesting features is the ability to label datapoints and have the label appear only when the user hovers their mouse over the point.
+
 This allows one to interact with the graph and see exactly which countries represent each datapoint in the given graphs. 
 
 The program is named: PlotlyGraphs.py 
