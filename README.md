@@ -29,4 +29,4 @@ One of Plotly's interesting features is the ability to label datapoints and have
 
 This allows one to interact with the graph and see exactly which countries represent each datapoint in the given graphs. 
 
-The program is named: PlotlyGraphs.py 
+The program is named: plotlyGraphs.py 
