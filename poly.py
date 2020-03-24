@@ -45,7 +45,7 @@ xx_quadratic = quadratic_featurizer.transform(xx.reshape(xx.shape[0], 1))
 # Plot the graph
 
 plt.plot(xx, regressor_quadratic.predict(xx_quadratic), c='r', linestyle='--')
-plt.title('Soical Support vs Happiness')
+plt.title('Social Support vs Happiness')
 plt.xlabel('Social Support')
 plt.ylabel('Happiness')
 plt.grid(True)
