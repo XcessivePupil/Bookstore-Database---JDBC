@@ -19,7 +19,7 @@ as well as training and testing the data.
 
 BONUS
 
-Whislt exploring the dataset, I also found a data visulation package called Plotly:
+Whilst exploring the dataset, I also found a data visulation package called Plotly:
 
 https://plot.ly/
 
